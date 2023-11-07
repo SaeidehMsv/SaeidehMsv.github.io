@@ -1,0 +1,72 @@
+#header-top {
+  background: #B1D8B7;
+}
+#header-bottom {
+  background-color:#B1D8B7;
+}
+#sticky-nav {
+  background-color:#B1D8B7;
+}
+#skills .skill-line {
+  background: #B1D8B7;
+}
+#publication .publication-line {
+  background: #B1D8B7;
+}
+#skills .skill-line .skill-bar .progress {
+  background-color: #B1D8B7;
+}
+#skills .skill-line .skill-bar .determinate {
+  background-color: #ffffff;
+}
+.cd-timeline-img {
+  background-color: #B1D8B7;
+}
+.cd-timeline-content span {
+  color: #B1D8B7;
+}
+.market-place ul li a {
+  color: #B1D8B7;
+}
+#pricing-table .pricing .plan .thumbnail .btn {
+  background-color: #B1D8B7;
+}
+input[type=text]:focus:not([readonly]),
+input[type=password]:focus:not([readonly]),
+input[type=email]:focus:not([readonly]),
+input[type=url]:focus:not([readonly]),
+input[type=time]:focus:not([readonly]),
+input[type=date]:focus:not([readonly]),
+input[type=datetime-local]:focus:not([readonly]),
+input[type=tel]:focus:not([readonly]),
+input[type=number]:focus:not([readonly]),
+input[type=search]:focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #d14848;
+}
+input[type=text]:focus:not([readonly]) + label,
+input[type=password]:focus:not([readonly]) + label,
+input[type=email]:focus:not([readonly]) + label,
+input[type=url]:focus:not([readonly]) + label,
+input[type=time]:focus:not([readonly]) + label,
+input[type=date]:focus:not([readonly]) + label,
+input[type=datetime-local]:focus:not([readonly]) + label,
+input[type=tel]:focus:not([readonly]) + label,
+input[type=number]:focus:not([readonly]) + label,
+input[type=search]:focus:not([readonly]) + label,
+textarea.materialize-textarea:focus:not([readonly]) + label {
+  color: #d14848;
+}
+.waves-me:focus {
+  background-color: #B1D8B7;
+}
+.btn {
+  background-color: #B1D8B7;
+}
+.btn:hover,
+.btn:focus {
+  background-color: #B1D8B7;
+}
+.interests ul li .fa {
+  color: #B1D8B7;
+}

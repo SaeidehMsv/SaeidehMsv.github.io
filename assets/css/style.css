@@ -73,6 +73,7 @@ Primary use:	CV/Resume, Portfolio, Perosnal Website
 */
 .row {
   margin-bottom: 0px;
+  margin-top: 0px;
 }
 .btn {
   display: inline-block;
@@ -246,8 +247,9 @@ nav .button-collapse i {
   background-color: #2196f3;
   z-index: 999;
 }
-ul li {
+.publication-bar ul li {
   list-style-type: DISC;
+  /* padding-left:2px; */
 }
 /*
 |----------------------------------------------------------------------------
